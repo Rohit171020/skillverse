@@ -24,9 +24,9 @@ const CourseCard = ({ icon, title, description, bgColor, hoverColor, shadowColor
         {icon}
       </div>
       <div className="font-bold text-xl mb-2 text-center text-indigo-600 relative z-10">{title}</div>
-      <div className="text-gray-700 text-base text-center relative z-10">
+      <div className="text-gray-700 text-base text-justify relative z-10">
         {description.map((line, index) => (
-          <p key={index} className="mb-2">{line}</p>
+          <p key={index} className="mb-2 text-sm">{line}</p>
         ))}
       </div>
       <div className="flex justify-center mt-4 relative z-10">

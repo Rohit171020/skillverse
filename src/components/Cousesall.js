@@ -71,9 +71,9 @@ const HomePage = () => {
       title: 'Scratch',
       description: [
         '• Discover Scratch to learn programming concepts through creative and interactive projects.',
-        '• Build games, animations, and stories using Scratch\'s intuitive block-based coding environment.',
-        '• Master coding fundamentals like loops, conditionals, and variables while having fun with coding.',
-        '• Develop problem-solving skills and creativity by designing your own projects in Scratch.'
+        '• Build games, animations, and stories using Scratch\'s platform  intuitive block-based coding environment.',
+        '• Master coding fundamentals like loops, conditionals, and variables ,Data types while having fun with the  coding.',
+         '• Enhance your problem-solving skills and creativity by designing and developing your own innovative projects on the Scratch platform.'
       ],
       bgColor: 'bg-purple-100',
       hoverColor: 'hover:bg-purple-200',
@@ -84,8 +84,8 @@ const HomePage = () => {
       icon: <FaCalculator size={48} className="text-indigo-500" />,
       title: 'Mathematics',
       description: [
-        '• Embark on a mathematical adventure to explore core concepts and their practical uses.',
-        '• Develop strong problem-solving skills through hands-on exercises and real-world scenarios.',
+        '• Embark on an exciting mathematical adventure to explore core concepts, their practical use, and real-world applications.',
+        '• Develop strong problem-solving skills through hands-on exercises, real-world scenarios, and collaborative learning experiences..',
         '• Master algebra, calculus, statistics, and more, building a solid foundation in mathematical theory.',
         '• Apply mathematical principles to analyze data, solve complex problems, and excel in fields ranging from science to finance.'
       ],

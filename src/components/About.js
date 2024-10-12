@@ -27,9 +27,9 @@ function AboutUsMission() {
           />
         </div>
         <div className="flex items-center justify-center p-4">
-          <div className="p-6 bg-yellow-100 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
+          <div className="p-6 bg-white   rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
             <h1 className="text-3xl font-bold text-green-600 mb-4">About Us</h1>
-            <p className="text-lg text-gray-700">
+            <p className="text-lg text-black">
               Welcome to SkillVerses, where learning meets innovation and every lesson is an exciting journey! We're a passionate community of tech enthusiasts committed to empowering learners through cutting-edge education. Our dynamic programs, guided by expert instructors, foster a supportive environment where individuals of all ages can explore, create, and excel in the world of technology.
             </p>
           </div>
